@@ -22,6 +22,7 @@ document.querySelector('.check').addEventListener('click', function () {
         setTimeout(() => {
             reset()
         
+            
         },2000)
         
     }
